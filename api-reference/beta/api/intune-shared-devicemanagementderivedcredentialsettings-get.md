@@ -57,7 +57,7 @@ This method supports the [OData Query Parameters](/graph/query-parameters) to he
 Do not supply a request body for this method.
 
 ## Response
-If successful, this method returns a `200 OK` response code and [deviceManagementDerivedCredentialSettings](../../resources/intune-shared-devicemanagementderivedcredentialsettings.md) object in the response body.
+If successful, this method returns a `200 OK` response code and [deviceManagementDerivedCredentialSettings](/resources/intune-shared-devicemanagementderivedcredentialsettings.md) object in the response body.
 
 ## Example
 
