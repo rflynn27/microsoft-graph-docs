@@ -50,8 +50,8 @@ In the request body, supply a JSON representation for the [iosLobAppProvisioning
 
 The following table shows the properties that are required when you create the [iosLobAppProvisioningConfiguration](../resources/intune-shared-ioslobappprovisioningconfiguration.md).
 
-|Property|Type|Description|
-|:---|:---|:---|
+| Property | Type | Description |
+| --- | --- | --- |
 |id|String|Key of the entity.|
 |expirationDateTime|DateTimeOffset|Optional profile expiration date and time.|
 |payloadFileName|String|Payload file name (*.mobileprovision | *.xml).|
